@@ -1,3 +1,5 @@
+![背景](https://github.com/user-attachments/assets/063e1354-7931-4126-bc75-1ad29c6eb087)
+
 致力于构建全链路开源免费的 PM 知识库。  
 
 > `本知识库由数名 10+年大厂上市公司产品经理联合创作。`  
